@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681787034 source:d:\code\dswang.kaoyan.basic\source\bubble_sort.cpp
+	<stdio.h>
+	<iostream>
+	<ios>
+	<sort.hpp>
+
+1681788559 d:\code\dswang.kaoyan.basic\include\sort.hpp
+
+1681788559 source:d:\code\dswang.kaoyan.basic\source\cout_array.cpp
+	<iostream>
+	<sort.hpp>
+
+1681798334 source:d:\code\dswang.kaoyan.basic\source\puzzle_board_find.cpp
+	<iostream>
+
