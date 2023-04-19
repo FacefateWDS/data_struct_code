@@ -11,6 +11,21 @@
 	<iostream>
 	<sort.hpp>
 
-1681798334 source:d:\code\dswang.kaoyan.basic\source\puzzle_board_find.cpp
+1681896404 source:d:\code\dswang.kaoyan.basic\source\puzzle_board_find.cpp
 	<iostream>
+	<find_direction.hpp>
+
+1681798372 source:d:\code\dswang.kaoyan.basic\source\select_k.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<string.h>
+	<sort.hpp>
+	<windows.h>
+
+1681886052 d:\code\dswang.kaoyan.basic\include\find_direction.hpp
+
+1681901844 source:d:\code\dswang.kaoyan.basic\source\find_direction.cpp
+	<iostream>
+	<find_direction.hpp>
 

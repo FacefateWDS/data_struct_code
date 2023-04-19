@@ -20,11 +20,13 @@
 			<Add option="-Wall" />
 			<Add directory="include" />
 		</Compiler>
+		<Unit filename="include/find_direction.hpp" />
 		<Unit filename="include/sort.hpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="source/bubble_sort.cpp" />
 		<Unit filename="source/cout_array.cpp" />
+		<Unit filename="source/find_direction.cpp" />
 		<Unit filename="source/puzzle_board_find.cpp" />
 		<Unit filename="source/select_k.cpp" />
 		<Extensions />
