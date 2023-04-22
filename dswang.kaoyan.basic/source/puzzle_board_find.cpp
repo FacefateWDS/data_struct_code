@@ -8,7 +8,7 @@
 using namespace std;
 
 
-int main() {
+void puzzle_board_find() {
 //输入后面[]必须有，因为不知道如何分配。
 //new 的需要具体
     char puzzle_board[][4] = {{'w', 'd', 's', 'c'}, {'a', 'b', 'w', 'e'}, {'b', 'd', 'w', 'a'}, {'s', 'w', 'd', 's'}, {'e', 'a', 's', 'b'}};
@@ -34,5 +34,5 @@ int main() {
     }
     delete [] puzzle_board;
     delete [] find_word;
-    return 0;
+    //return 0;
 }
